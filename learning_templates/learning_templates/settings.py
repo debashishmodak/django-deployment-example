@@ -25,7 +25,7 @@ SECRET_KEY = '@j85az8iqgmo38^0#@0d5n90c^@!90^#04d4%7ca8b3*e8@cfn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [dmoda.pythonanywhere.com]
+ALLOWED_HOSTS = ['dmoda.pythonanywhere.com']
 
 
 # Application definition
